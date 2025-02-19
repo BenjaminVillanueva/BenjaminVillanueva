@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**BenjaminVillanueva/BenjaminVillanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola, soy Benjamín Andriu Villanueva! 👋
 
-Here are some ideas to get you started:
+Soy **Ingeniero en Informática** apasionado por el desarrollo de soluciones tecnológicas innovadoras. Me especializo en la creación de aplicaciones web completas, combinando tanto el desarrollo **backend** como **frontend** para ofrecer experiencias digitales eficientes y seguras. Siempre en búsqueda de nuevos desafíos, me encanta aprender y aplicar tecnologías que impulsen el crecimiento profesional y la transformación digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explora mis proyectos y colaboraciones para descubrir cómo combino código, creatividad y pasión por la tecnología.
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+
+- **Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,py,django,js,ts" />
+  </a>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+- **Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,tailwind" />
+  </a>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+- **Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+  </a>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+- **Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,notion" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
